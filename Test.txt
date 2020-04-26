@@ -1,1 +1,2 @@
 Just Checking how git works
+Modified the file
